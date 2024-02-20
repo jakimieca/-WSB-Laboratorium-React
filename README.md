@@ -1,7 +1,7 @@
 # Laboratorium React - projekt zaliczeniowy
 Projekt wykonany na zajęciach laboratoryjnych z Reacta.
 
-Ujęto wszystkie omawiane i obligatoryjne funkcjonalności:
+Ujęto wszystkie omawiane, obligatoryjne funkcjonalności:
 1. Zmiana trybu jasny/ciemnny
 ![image](https://github.com/jakimieca/WSB-React---poprawione/assets/58030208/62e53ad5-0b9c-426a-ba5a-21078cdbe5a2)
 ![image](https://github.com/jakimieca/WSB-React---poprawione/assets/58030208/37b51e0a-d8a3-41e6-93c3-6058f7cc6449)
